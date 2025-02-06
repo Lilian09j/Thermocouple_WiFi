@@ -6,3 +6,5 @@ Cold junction temperature measured by an LM335Z, MCP6002 AOPs in differential as
 The components used are thoses : ESP8266 (nodeMCU), MCP3301, MCP6002 and LM335Z
 
 JAOUANNE Lilian & GARCON Bastian
+
+Développement d'un thermocouple de type K basé sur un ESP8266 avec acquisition WiFi depuis une application Java
